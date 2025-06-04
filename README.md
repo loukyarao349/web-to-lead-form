@@ -11,7 +11,7 @@
 <!--  NOTE: Please add the following <FORM> element to your page.             -->
 <!--  ----------------------------------------------------------------------  -->
 
-<h1> New update on form </h1>
+
 <form action="https://webto.salesforce.com/servlet/servlet.WebToLead?encoding=UTF-8&orgId=00D5j00000DgiwN" method="POST">
 
 <input type=hidden name="oid" value="00D5j00000DgiwN">
