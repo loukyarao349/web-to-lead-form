@@ -36,12 +36,6 @@
 
 <label for="state">State/Province</label><input  id="state" maxlength="20" name="state" size="20" type="text" /><br>
 
-<label for="Campaign_ID">Campaign</label><select  id="Campaign_ID" name="Campaign_ID"><option value="">--None--</option><option value="7015j000000KXXd">GC Product Webinar - Jan 7, 2002</option>
-<option value="7015j000000KXXe">User Conference - Jun 17-19, 2002</option>
-<option value="7015j000000KXXf">DM Campaign to Top Customers - Nov 12-23, 2001</option>
-<option value="7015j000000KXXg">International Electrical Engineers Association Trade Show - Mar 4-5, 2002</option>
-</select><br>
-
 <label for="phone">Phone</label><input  id="phone" maxlength="40" name="phone" size="20" type="text" /><br>
 
 <input type="submit" name="submit">
